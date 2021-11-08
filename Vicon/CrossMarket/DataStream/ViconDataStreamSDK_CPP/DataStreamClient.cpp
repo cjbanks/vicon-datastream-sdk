@@ -35,7 +35,7 @@
 #include "CoreAdapters.h"
 
 
-using namespace boost::placeholders
+using namespace boost::placeholders;
 namespace ViconDataStreamSDK
 {
 namespace CPP
