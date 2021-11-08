@@ -30,9 +30,12 @@
 #include <memory>
 #include <ViconDataStreamSDKCore/CoreClient.h>
 #include "StringFactory.h"
+#include <boost/bind/bind.hpp>
 
 #include "CoreAdapters.h"
 
+
+using namespace boost::placeholders
 namespace ViconDataStreamSDK
 {
 namespace CPP
